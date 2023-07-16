@@ -13,7 +13,7 @@ class Burger:
     
     def salad(self):
         print('salad')
-        return self
+        return selfr
         
 burger=Burger()
 burger.bun().patty().bun()
